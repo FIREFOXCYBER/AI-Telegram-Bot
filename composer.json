@@ -1,0 +1,8 @@
+{
+    "name": "daksh7011/deep-learning-bot",
+    "type": "machine learning and neural networks",
+    "require": {
+        "php": ">=5.5",
+        "longman/telegram-bot": "*"
+    }
+}
