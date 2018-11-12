@@ -4,5 +4,6 @@
     "require": {
         "php": ">=5.5",
         "longman/telegram-bot": "*"
+        "necrox87/yii2-nudity-detector": "dev-master"
     }
 }
