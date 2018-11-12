@@ -3,7 +3,7 @@
     "type": "machine learning and neural networks",
     "require": {
         "php": ">=5.5",
-        "longman/telegram-bot": "*"
+        "longman/telegram-bot": "*",
         "necrox87/yii2-nudity-detector": "dev-master"
     }
 }
